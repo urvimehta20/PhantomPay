@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-2025-2012",
+  "order_number": "ORD-2025-3012",
+  "customer": "Logan Nguyen",
+  "email": "logan.nguyen@example.com",
+  "order_date": "2025-10-29",
+  "due_date": "2025-11-05",
+  "subtotal": 199.0,
+  "tax": 17.91,
+  "total": 199.0,
+  "payment_completed": false,
+  "payment_method": "Transaction ID:",
+  "transaction_id": "Items:",
+  "items": [
+    "- Hardware Service — Sensor Array Deployment x1"
+  ],
+  "notes": "Service provided under PhantomPay B2B terms. Synthetic data for testing.",
+  "filename": "INV-2025-2012.pdf",
+  "file_path": "data_2/INV-2025-2012.pdf"
+}

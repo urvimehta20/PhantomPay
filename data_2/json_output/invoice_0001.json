@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1001",
+  "order_number": "ORD-2025-2001",
+  "customer": "Helix Vector LLC",
+  "email": "ap@helix.example.com",
+  "order_date": "2024-04-15",
+  "due_date": "2024-04-30",
+  "subtotal": 13365.96,
+  "tax": 1202.94,
+  "total": 13365.96,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Hardware Maintenance Plan",
+    "- Custom Integration",
+    "- Data Migration",
+    "- Enterprise Service Retainer"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0001.pdf",
+  "file_path": "data_2/invoice_0001.pdf"
+}

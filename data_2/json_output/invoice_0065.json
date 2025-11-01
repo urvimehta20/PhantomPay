@@ -1,0 +1,27 @@
+{
+  "invoice_number": "INV-2025-1065",
+  "order_number": "ORD-2025-2065",
+  "customer": "Northstar Keystone Group",
+  "email": "ap@northstar.example.com",
+  "order_date": "2025-05-14",
+  "due_date": "2025-06-13",
+  "subtotal": 28361.64,
+  "tax": 2552.55,
+  "total": 28361.64,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Software Service License",
+    "- Data Migration",
+    "- Freelance Dev Sprint",
+    "- Hardware Maintenance Plan",
+    "- Enterprise Service Retainer",
+    "- Onboarding & Implementation",
+    "- Training & Workshops",
+    "- Custom Integration"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0065.pdf",
+  "file_path": "data_2/invoice_0065.pdf"
+}

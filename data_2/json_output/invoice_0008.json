@@ -1,0 +1,27 @@
+{
+  "invoice_number": "INV-2025-1008",
+  "order_number": "ORD-2025-2008",
+  "customer": "Northstar Orion Corp.",
+  "email": "ap@northstar.example.com",
+  "order_date": "2025-01-15",
+  "due_date": "2025-03-01",
+  "subtotal": 29286.28,
+  "tax": 2635.77,
+  "total": 29286.28,
+  "payment_completed": false,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Software Service License",
+    "- Hardware Maintenance Plan",
+    "- Enterprise Service Retainer",
+    "- Training & Workshops",
+    "- Custom Integration",
+    "- Onboarding & Implementation",
+    "- Data Migration",
+    "- Freelance Dev Sprint"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0008.pdf",
+  "file_path": "data_2/invoice_0008.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1071",
+  "order_number": "ORD-2025-2071",
+  "customer": "Quantum Nimbus Partners",
+  "email": "ap@quantum.example.com",
+  "order_date": "2024-08-08",
+  "due_date": "2024-08-23",
+  "subtotal": 22008.53,
+  "tax": 1980.77,
+  "total": 22008.53,
+  "payment_completed": false,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Onboarding & Implementation",
+    "- Data Migration",
+    "- Custom Integration",
+    "- Training & Workshops",
+    "- Freelance Dev Sprint",
+    "- Software Service License"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0071.pdf",
+  "file_path": "data_2/invoice_0071.pdf"
+}

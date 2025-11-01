@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1090",
+  "order_number": "ORD-2025-2090",
+  "customer": "Summit Orion Ltd.",
+  "email": "ap@summit.example.com",
+  "order_date": "2024-06-23",
+  "due_date": "2024-07-23",
+  "subtotal": 26236.98,
+  "tax": 2361.33,
+  "total": 26236.98,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Software Service License",
+    "- Hardware Maintenance Plan",
+    "- Onboarding & Implementation"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0090.pdf",
+  "file_path": "data_2/invoice_0090.pdf"
+}

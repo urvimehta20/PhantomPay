@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-2025-2007",
+  "order_number": "ORD-2025-3007",
+  "customer": "Mason Chen",
+  "email": "mason.chen@example.com",
+  "order_date": "2025-01-25",
+  "due_date": "2025-02-01",
+  "subtotal": 899.0,
+  "tax": 80.91,
+  "total": 899.0,
+  "payment_completed": false,
+  "payment_method": "Transaction ID:",
+  "transaction_id": "Items:",
+  "items": [
+    "- Freelance Service — Design & UX Audit x1"
+  ],
+  "notes": "Service provided under PhantomPay B2B terms. Synthetic data for testing.",
+  "filename": "INV-2025-2007.pdf",
+  "file_path": "data_2/INV-2025-2007.pdf"
+}

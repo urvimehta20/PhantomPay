@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1087",
+  "order_number": "ORD-2025-2087",
+  "customer": "Apex Arcadia Group",
+  "email": "ap@apex.example.com",
+  "order_date": "2024-05-19",
+  "due_date": "2024-06-03",
+  "subtotal": 17125.4,
+  "tax": 1541.29,
+  "total": 17125.4,
+  "payment_completed": false,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Training & Workshops",
+    "- Data Migration",
+    "- Hardware Maintenance Plan",
+    "- Software Service License",
+    "- Custom Integration",
+    "- Enterprise Service Retainer"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0087.pdf",
+  "file_path": "data_2/invoice_0087.pdf"
+}

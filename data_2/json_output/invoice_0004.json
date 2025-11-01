@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1004",
+  "order_number": "ORD-2025-2004",
+  "customer": "Atlas Paragon Inc.",
+  "email": "ap@atlas.example.com",
+  "order_date": "2024-12-03",
+  "due_date": "2024-12-18",
+  "subtotal": 21455.69,
+  "tax": 1931.01,
+  "total": 21455.69,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Onboarding & Implementation",
+    "- Hardware Maintenance Plan",
+    "- Data Migration",
+    "- Training & Workshops",
+    "- Software Service License",
+    "- Freelance Dev Sprint"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0004.pdf",
+  "file_path": "data_2/invoice_0004.pdf"
+}

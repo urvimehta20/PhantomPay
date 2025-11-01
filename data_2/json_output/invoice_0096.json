@@ -1,0 +1,27 @@
+{
+  "invoice_number": "INV-2025-1096",
+  "order_number": "ORD-2025-2096",
+  "customer": "Paragon Orion Inc.",
+  "email": "ap@paragon.example.com",
+  "order_date": "2024-12-18",
+  "due_date": "2025-01-17",
+  "subtotal": 24345.29,
+  "tax": 2191.08,
+  "total": 24345.29,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Training & Workshops",
+    "- Onboarding & Implementation",
+    "- Custom Integration",
+    "- Freelance Dev Sprint",
+    "- Enterprise Service Retainer",
+    "- Data Migration",
+    "- Software Service License",
+    "- Hardware Maintenance Plan"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0096.pdf",
+  "file_path": "data_2/invoice_0096.pdf"
+}

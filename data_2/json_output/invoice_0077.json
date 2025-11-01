@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1077",
+  "order_number": "ORD-2025-2077",
+  "customer": "Ironclad Catalyst Corp.",
+  "email": "ap@ironclad.example.com",
+  "order_date": "2025-06-26",
+  "due_date": "2025-07-11",
+  "subtotal": 10819.09,
+  "tax": 973.72,
+  "total": 10819.09,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Hardware Maintenance Plan",
+    "- Data Migration",
+    "- Training & Workshops"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0077.pdf",
+  "file_path": "data_2/invoice_0077.pdf"
+}

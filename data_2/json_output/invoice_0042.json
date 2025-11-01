@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1042",
+  "order_number": "ORD-2025-2042",
+  "customer": "Paragon BluePeak Group",
+  "email": "ap@paragon.example.com",
+  "order_date": "2024-09-24",
+  "due_date": "2024-10-24",
+  "subtotal": 13220.78,
+  "tax": 1189.87,
+  "total": 13220.78,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Training & Workshops",
+    "- Enterprise Service Retainer",
+    "- Data Migration",
+    "- Freelance Dev Sprint",
+    "- Hardware Maintenance Plan",
+    "- Custom Integration"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0042.pdf",
+  "file_path": "data_2/invoice_0042.pdf"
+}

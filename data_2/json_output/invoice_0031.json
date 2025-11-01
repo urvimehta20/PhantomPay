@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1031",
+  "order_number": "ORD-2025-2031",
+  "customer": "Quantum Pioneer Inc.",
+  "email": "ap@quantum.example.com",
+  "order_date": "2024-04-25",
+  "due_date": "2024-05-25",
+  "subtotal": 25617.67,
+  "tax": 2305.59,
+  "total": 25617.67,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Onboarding & Implementation",
+    "- Data Migration",
+    "- Software Service License",
+    "- Enterprise Service Retainer",
+    "- Hardware Maintenance Plan",
+    "- Custom Integration"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0031.pdf",
+  "file_path": "data_2/invoice_0031.pdf"
+}

@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-2025-2019",
+  "order_number": "ORD-2025-3019",
+  "customer": "Liam Chen",
+  "email": "liam.chen@example.com",
+  "order_date": "2025-09-15",
+  "due_date": "2025-09-22",
+  "subtotal": 25.0,
+  "tax": 2.25,
+  "total": 25.0,
+  "payment_completed": true,
+  "payment_method": "Transaction ID: TX-5019",
+  "transaction_id": "TX-5019",
+  "items": [
+    "- Software Service — Custom Reporting Module x1"
+  ],
+  "notes": "Service provided under PhantomPay B2B terms. Synthetic data for testing.",
+  "filename": "INV-2025-2019.pdf",
+  "file_path": "data_2/INV-2025-2019.pdf"
+}

@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1010",
+  "order_number": "ORD-2025-2010",
+  "customer": "Vertex Paragon Group",
+  "email": "ap@vertex.example.com",
+  "order_date": "2025-03-05",
+  "due_date": "2025-04-19",
+  "subtotal": 19801.62,
+  "tax": 1782.15,
+  "total": 19801.62,
+  "payment_completed": false,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Software Service License",
+    "- Enterprise Service Retainer",
+    "- Freelance Dev Sprint",
+    "- Onboarding & Implementation",
+    "- Custom Integration",
+    "- Hardware Maintenance Plan"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0010.pdf",
+  "file_path": "data_2/invoice_0010.pdf"
+}

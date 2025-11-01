@@ -1,0 +1,26 @@
+{
+  "invoice_number": "INV-2025-1017",
+  "order_number": "ORD-2025-2017",
+  "customer": "Catalyst Nimbus Group",
+  "email": "ap@catalyst.example.com",
+  "order_date": "2025-10-15",
+  "due_date": "2025-10-30",
+  "subtotal": 22692.86,
+  "tax": 2042.36,
+  "total": 22692.86,
+  "payment_completed": false,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Freelance Dev Sprint",
+    "- Enterprise Service Retainer",
+    "- Software Service License",
+    "- Data Migration",
+    "- Onboarding & Implementation",
+    "- Training & Workshops",
+    "- Custom Integration"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0017.pdf",
+  "file_path": "data_2/invoice_0017.pdf"
+}

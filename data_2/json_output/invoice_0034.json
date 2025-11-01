@@ -1,0 +1,26 @@
+{
+  "invoice_number": "INV-2025-1034",
+  "order_number": "ORD-2025-2034",
+  "customer": "Summit Cobalt Group",
+  "email": "ap@summit.example.com",
+  "order_date": "2025-06-24",
+  "due_date": "2025-08-08",
+  "subtotal": 23895.08,
+  "tax": 2150.56,
+  "total": 23895.08,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Software Service License",
+    "- Enterprise Service Retainer",
+    "- Onboarding & Implementation",
+    "- Data Migration",
+    "- Training & Workshops",
+    "- Hardware Maintenance Plan",
+    "- Custom Integration"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0034.pdf",
+  "file_path": "data_2/invoice_0034.pdf"
+}

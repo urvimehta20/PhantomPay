@@ -1,0 +1,27 @@
+{
+  "invoice_number": "INV-2025-1013",
+  "order_number": "ORD-2025-2013",
+  "customer": "Silverline Nimbus Inc.",
+  "email": "ap@silverline.example.com",
+  "order_date": "2025-04-29",
+  "due_date": "2025-05-29",
+  "subtotal": 22766.82,
+  "tax": 2049.01,
+  "total": 22766.82,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Freelance Dev Sprint",
+    "- Hardware Maintenance Plan",
+    "- Custom Integration",
+    "- Enterprise Service Retainer",
+    "- Data Migration",
+    "- Software Service License",
+    "- Onboarding & Implementation",
+    "- Training & Workshops"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0013.pdf",
+  "file_path": "data_2/invoice_0013.pdf"
+}

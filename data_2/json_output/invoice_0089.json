@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1089",
+  "order_number": "ORD-2025-2089",
+  "customer": "Arcadia Mosaic Partners",
+  "email": "ap@arcadia.example.com",
+  "order_date": "2025-03-05",
+  "due_date": "2025-03-20",
+  "subtotal": 14741.39,
+  "tax": 1326.73,
+  "total": 14741.39,
+  "payment_completed": false,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Custom Integration",
+    "- Hardware Maintenance Plan",
+    "- Onboarding & Implementation",
+    "- Freelance Dev Sprint",
+    "- Enterprise Service Retainer",
+    "- Software Service License"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0089.pdf",
+  "file_path": "data_2/invoice_0089.pdf"
+}

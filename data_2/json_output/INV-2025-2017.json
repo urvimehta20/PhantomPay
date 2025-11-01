@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-2025-2017",
+  "order_number": "ORD-2025-3017",
+  "customer": "Isabella Thompson",
+  "email": "isabella.thompson@example.com",
+  "order_date": "2025-08-05",
+  "due_date": "2025-08-12",
+  "subtotal": 50.0,
+  "tax": 4.5,
+  "total": 50.0,
+  "payment_completed": false,
+  "payment_method": "Transaction ID:",
+  "transaction_id": "Items:",
+  "items": [
+    "- Hardware Service — Edge Gateway — Installation x1"
+  ],
+  "notes": "Service provided under PhantomPay B2B terms. Synthetic data for testing.",
+  "filename": "INV-2025-2017.pdf",
+  "file_path": "data_2/INV-2025-2017.pdf"
+}

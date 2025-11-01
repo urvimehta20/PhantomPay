@@ -1,0 +1,27 @@
+{
+  "invoice_number": "INV-2025-1020",
+  "order_number": "ORD-2025-2020",
+  "customer": "Arcadia Keystone Inc.",
+  "email": "ap@arcadia.example.com",
+  "order_date": "2024-12-14",
+  "due_date": "2025-01-28",
+  "subtotal": 28339.31,
+  "tax": 2550.54,
+  "total": 28339.31,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Data Migration",
+    "- Training & Workshops",
+    "- Hardware Maintenance Plan",
+    "- Freelance Dev Sprint",
+    "- Software Service License",
+    "- Onboarding & Implementation",
+    "- Enterprise Service Retainer",
+    "- Custom Integration"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0020.pdf",
+  "file_path": "data_2/invoice_0020.pdf"
+}

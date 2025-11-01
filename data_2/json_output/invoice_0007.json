@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1007",
+  "order_number": "ORD-2025-2007",
+  "customer": "Vector Arcadia Corp.",
+  "email": "ap@vector.example.com",
+  "order_date": "2025-04-04",
+  "due_date": "2025-04-19",
+  "subtotal": 19421.75,
+  "tax": 1747.96,
+  "total": 19421.75,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Training & Workshops",
+    "- Custom Integration",
+    "- Software Service License",
+    "- Hardware Maintenance Plan",
+    "- Freelance Dev Sprint"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0007.pdf",
+  "file_path": "data_2/invoice_0007.pdf"
+}

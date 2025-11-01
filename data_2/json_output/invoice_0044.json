@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1044",
+  "order_number": "ORD-2025-2044",
+  "customer": "Catalyst Apex Corp.",
+  "email": "ap@catalyst.example.com",
+  "order_date": "2024-08-11",
+  "due_date": "2024-09-25",
+  "subtotal": 4561.05,
+  "tax": 410.49,
+  "total": 4561.05,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Training & Workshops",
+    "- Data Migration",
+    "- Freelance Dev Sprint"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0044.pdf",
+  "file_path": "data_2/invoice_0044.pdf"
+}

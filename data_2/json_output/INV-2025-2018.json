@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-2025-2018",
+  "order_number": "ORD-2025-3018",
+  "customer": "Amelia Wilson",
+  "email": "amelia.wilson@example.com",
+  "order_date": "2025-10-05",
+  "due_date": "2025-10-12",
+  "subtotal": 899.0,
+  "tax": 80.91,
+  "total": 899.0,
+  "payment_completed": false,
+  "payment_method": "Transaction ID:",
+  "transaction_id": "Items:",
+  "items": [
+    "- Software Service — SaaS License — Pro Tier (Monthly) x1"
+  ],
+  "notes": "Service provided under PhantomPay B2B terms. Synthetic data for testing.",
+  "filename": "INV-2025-2018.pdf",
+  "file_path": "data_2/INV-2025-2018.pdf"
+}

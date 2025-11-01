@@ -1,0 +1,26 @@
+{
+  "invoice_number": "INV-2025-1011",
+  "order_number": "ORD-2025-2011",
+  "customer": "Nova Quantum Ltd.",
+  "email": "ap@nova.example.com",
+  "order_date": "2025-07-11",
+  "due_date": "2025-08-25",
+  "subtotal": 28241.58,
+  "tax": 2541.74,
+  "total": 28241.58,
+  "payment_completed": false,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Enterprise Service Retainer",
+    "- Freelance Dev Sprint",
+    "- Custom Integration",
+    "- Training & Workshops",
+    "- Data Migration",
+    "- Software Service License",
+    "- Hardware Maintenance Plan"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0011.pdf",
+  "file_path": "data_2/invoice_0011.pdf"
+}

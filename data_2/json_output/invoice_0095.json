@@ -1,0 +1,27 @@
+{
+  "invoice_number": "INV-2025-1095",
+  "order_number": "ORD-2025-2095",
+  "customer": "Vanguard Summit Inc.",
+  "email": "ap@vanguard.example.com",
+  "order_date": "2024-05-09",
+  "due_date": "2024-05-24",
+  "subtotal": 26447.63,
+  "tax": 2380.29,
+  "total": 26447.63,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Custom Integration",
+    "- Software Service License",
+    "- Data Migration",
+    "- Training & Workshops",
+    "- Hardware Maintenance Plan",
+    "- Onboarding & Implementation",
+    "- Enterprise Service Retainer",
+    "- Freelance Dev Sprint"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0095.pdf",
+  "file_path": "data_2/invoice_0095.pdf"
+}

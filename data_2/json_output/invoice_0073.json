@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1073",
+  "order_number": "ORD-2025-2073",
+  "customer": "Paragon Vector LLC",
+  "email": "ap@paragon.example.com",
+  "order_date": "2024-05-09",
+  "due_date": "2024-06-23",
+  "subtotal": 10644.33,
+  "tax": 957.99,
+  "total": 10644.33,
+  "payment_completed": false,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Software Service License",
+    "- Custom Integration",
+    "- Enterprise Service Retainer",
+    "- Hardware Maintenance Plan",
+    "- Freelance Dev Sprint"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0073.pdf",
+  "file_path": "data_2/invoice_0073.pdf"
+}

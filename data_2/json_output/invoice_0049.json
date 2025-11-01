@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1049",
+  "order_number": "ORD-2025-2049",
+  "customer": "Apex Nimbus LLC",
+  "email": "ap@apex.example.com",
+  "order_date": "2024-12-30",
+  "due_date": "2025-02-13",
+  "subtotal": 14244.68,
+  "tax": 1282.02,
+  "total": 14244.68,
+  "payment_completed": false,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Hardware Maintenance Plan",
+    "- Data Migration",
+    "- Onboarding & Implementation",
+    "- Freelance Dev Sprint",
+    "- Enterprise Service Retainer",
+    "- Training & Workshops"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0049.pdf",
+  "file_path": "data_2/invoice_0049.pdf"
+}

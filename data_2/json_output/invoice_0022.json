@@ -1,0 +1,26 @@
+{
+  "invoice_number": "INV-2025-1022",
+  "order_number": "ORD-2025-2022",
+  "customer": "BluePeak Northstar Corp.",
+  "email": "ap@bluepeak.example.com",
+  "order_date": "2025-01-09",
+  "due_date": "2025-01-24",
+  "subtotal": 28717.25,
+  "tax": 2584.55,
+  "total": 28717.25,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Freelance Dev Sprint",
+    "- Hardware Maintenance Plan",
+    "- Onboarding & Implementation",
+    "- Custom Integration",
+    "- Enterprise Service Retainer",
+    "- Software Service License",
+    "- Data Migration"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0022.pdf",
+  "file_path": "data_2/invoice_0022.pdf"
+}

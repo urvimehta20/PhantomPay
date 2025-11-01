@@ -1,0 +1,27 @@
+{
+  "invoice_number": "INV-2025-1072",
+  "order_number": "ORD-2025-2072",
+  "customer": "BluePeak Vertex Inc.",
+  "email": "ap@bluepeak.example.com",
+  "order_date": "2025-02-04",
+  "due_date": "2025-03-21",
+  "subtotal": 25683.28,
+  "tax": 2311.5,
+  "total": 25683.28,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Software Service License",
+    "- Hardware Maintenance Plan",
+    "- Data Migration",
+    "- Freelance Dev Sprint",
+    "- Training & Workshops",
+    "- Enterprise Service Retainer",
+    "- Custom Integration",
+    "- Onboarding & Implementation"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0072.pdf",
+  "file_path": "data_2/invoice_0072.pdf"
+}

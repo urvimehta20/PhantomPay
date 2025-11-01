@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1084",
+  "order_number": "ORD-2025-2084",
+  "customer": "Orion Pioneer Ltd.",
+  "email": "ap@orion.example.com",
+  "order_date": "2024-11-22",
+  "due_date": "2025-01-06",
+  "subtotal": 11095.11,
+  "tax": 998.56,
+  "total": 11095.11,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Enterprise Service Retainer",
+    "- Custom Integration",
+    "- Freelance Dev Sprint",
+    "- Onboarding & Implementation",
+    "- Hardware Maintenance Plan"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0084.pdf",
+  "file_path": "data_2/invoice_0084.pdf"
+}

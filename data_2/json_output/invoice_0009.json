@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1009",
+  "order_number": "ORD-2025-2009",
+  "customer": "Pioneer Helix LLC",
+  "email": "ap@pioneer.example.com",
+  "order_date": "2024-02-09",
+  "due_date": "2024-03-10",
+  "subtotal": 20288.84,
+  "tax": 1826.0,
+  "total": 20288.84,
+  "payment_completed": false,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Hardware Maintenance Plan",
+    "- Custom Integration",
+    "- Data Migration",
+    "- Freelance Dev Sprint",
+    "- Onboarding & Implementation",
+    "- Training & Workshops"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0009.pdf",
+  "file_path": "data_2/invoice_0009.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1060",
+  "order_number": "ORD-2025-2060",
+  "customer": "Orion Catalyst Inc.",
+  "email": "ap@orion.example.com",
+  "order_date": "2024-05-21",
+  "due_date": "2024-07-05",
+  "subtotal": 18673.44,
+  "tax": 1680.61,
+  "total": 18673.44,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Training & Workshops",
+    "- Data Migration",
+    "- Onboarding & Implementation",
+    "- Software Service License"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0060.pdf",
+  "file_path": "data_2/invoice_0060.pdf"
+}

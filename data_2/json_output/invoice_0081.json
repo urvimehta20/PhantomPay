@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1081",
+  "order_number": "ORD-2025-2081",
+  "customer": "Arcadia Vertex Ltd.",
+  "email": "ap@arcadia.example.com",
+  "order_date": "2024-04-14",
+  "due_date": "2024-04-29",
+  "subtotal": 27594.33,
+  "tax": 2483.49,
+  "total": 27594.33,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Freelance Dev Sprint",
+    "- Software Service License",
+    "- Custom Integration"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0081.pdf",
+  "file_path": "data_2/invoice_0081.pdf"
+}

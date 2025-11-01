@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-2025-2001",
+  "order_number": "ORD-2025-3001",
+  "customer": "Mason Alvarez",
+  "email": "mason.alvarez@example.com",
+  "order_date": "2025-07-04",
+  "due_date": "2025-07-11",
+  "subtotal": 1300.0,
+  "tax": 117.0,
+  "total": 1300.0,
+  "payment_completed": true,
+  "payment_method": "paypal",
+  "transaction_id": "TX-5001",
+  "items": [
+    "- Enterprise Service — Settlement Reconciliation x1"
+  ],
+  "notes": "Service provided under PhantomPay B2B terms. Synthetic data for testing.",
+  "filename": "INV-2025-2001.pdf",
+  "file_path": "data_2/INV-2025-2001.pdf"
+}

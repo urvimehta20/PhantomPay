@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1040",
+  "order_number": "ORD-2025-2040",
+  "customer": "Nimbus Nova Ltd.",
+  "email": "ap@nimbus.example.com",
+  "order_date": "2024-02-29",
+  "due_date": "2024-04-14",
+  "subtotal": 18997.18,
+  "tax": 1709.75,
+  "total": 18997.18,
+  "payment_completed": true,
+  "payment_method": null,
+  "transaction_id": null,
+  "items": [
+    "- Hardware Maintenance Plan",
+    "- Freelance Dev Sprint",
+    "- Software Service License",
+    "- Training & Workshops",
+    "- Data Migration",
+    "- Custom Integration"
+  ],
+  "notes": "Synthetic B2B invoice dataset for testing. No real company branding.",
+  "filename": "invoice_0040.pdf",
+  "file_path": "data_2/invoice_0040.pdf"
+}

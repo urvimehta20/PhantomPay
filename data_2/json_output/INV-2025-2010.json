@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-2025-2010",
+  "order_number": "ORD-2025-3010",
+  "customer": "Liam Lopez",
+  "email": "liam.lopez@example.com",
+  "order_date": "2025-10-18",
+  "due_date": "2025-10-25",
+  "subtotal": 98.0,
+  "tax": 8.82,
+  "total": 98.0,
+  "payment_completed": false,
+  "payment_method": "Transaction ID:",
+  "transaction_id": "Items:",
+  "items": [
+    "- Software Service — API Integration Setup x1"
+  ],
+  "notes": "Service provided under PhantomPay B2B terms. Synthetic data for testing.",
+  "filename": "INV-2025-2010.pdf",
+  "file_path": "data_2/INV-2025-2010.pdf"
+}

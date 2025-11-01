@@ -1,0 +1,20 @@
+{
+  "invoice_number": "INV-2025-2011",
+  "order_number": "ORD-2025-3011",
+  "customer": "Lucas Thompson",
+  "email": "lucas.thompson@example.com",
+  "order_date": "2025-06-07",
+  "due_date": "2025-06-14",
+  "subtotal": 49.0,
+  "tax": 4.41,
+  "total": 49.0,
+  "payment_completed": false,
+  "payment_method": "Transaction ID:",
+  "transaction_id": "Items:",
+  "items": [
+    "- Freelance Service — Design & UX Audit x1"
+  ],
+  "notes": "Service provided under PhantomPay B2B terms. Synthetic data for testing.",
+  "filename": "INV-2025-2011.pdf",
+  "file_path": "data_2/INV-2025-2011.pdf"
+}

@@ -1,0 +1,17 @@
+INVOICE: INV-2025-2007
+ORDER: ORD-2025-3007
+Customer: Mason Chen
+Email: mason.chen@example.com
+Order date: 2025-01-25
+Due date: 2025-02-01
+Subtotal: 899.0 USD
+Tax: 80.91 USD
+Total: 979.91 USD
+Payment completed: False
+Payment method: 
+Transaction ID: 
+
+Items:
+ - Freelance Service — Design & UX Audit x1
+
+Notes: Service provided under PhantomPay B2B terms. Synthetic data for testing.

@@ -1,0 +1,17 @@
+INVOICE: INV-2025-2019
+ORDER: ORD-2025-3019
+Customer: Liam Chen
+Email: liam.chen@example.com
+Order date: 2025-09-15
+Due date: 2025-09-22
+Subtotal: 25.0 USD
+Tax: 2.25 USD
+Total: 27.25 USD
+Payment completed: True
+Payment method: 
+Transaction ID: TX-5019
+
+Items:
+ - Software Service — Custom Reporting Module x1
+
+Notes: Service provided under PhantomPay B2B terms. Synthetic data for testing.

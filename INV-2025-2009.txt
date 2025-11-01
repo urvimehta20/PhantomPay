@@ -1,0 +1,17 @@
+INVOICE: INV-2025-2009
+ORDER: ORD-2025-3009
+Customer: Oliver Wang
+Email: oliver.wang@example.com
+Order date: 2025-09-11
+Due date: 2025-09-18
+Subtotal: 899.0 USD
+Tax: 80.91 USD
+Total: 979.91 USD
+Payment completed: False
+Payment method: 
+Transaction ID: 
+
+Items:
+ - Software Service — Custom Reporting Module x1
+
+Notes: Service provided under PhantomPay B2B terms. Synthetic data for testing.

@@ -1,0 +1,17 @@
+INVOICE: INV-2025-2002
+ORDER: ORD-2025-3002
+Customer: Priya Wang
+Email: priya.wang@example.com
+Order date: 2025-10-04
+Due date: 2025-10-11
+Subtotal: 796.0 USD
+Tax: 71.64 USD
+Total: 867.64 USD
+Payment completed: False
+Payment method: 
+Transaction ID: 
+
+Items:
+ - Freelance Service — Consulting Hours (10h) x1
+
+Notes: Service provided under PhantomPay B2B terms. Synthetic data for testing.

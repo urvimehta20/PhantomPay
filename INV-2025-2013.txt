@@ -1,0 +1,17 @@
+INVOICE: INV-2025-2013
+ORDER: ORD-2025-3013
+Customer: Sophia Kim
+Email: sophia.kim@example.com
+Order date: 2025-11-03
+Due date: 2025-11-10
+Subtotal: 1300.0 USD
+Tax: 117.0 USD
+Total: 1417.0 USD
+Payment completed: False
+Payment method: 
+Transaction ID: 
+
+Items:
+ - Enterprise Service — Settlement Reconciliation x1
+
+Notes: Service provided under PhantomPay B2B terms. Synthetic data for testing.

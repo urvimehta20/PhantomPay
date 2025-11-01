@@ -1,0 +1,17 @@
+INVOICE: INV-2025-2011
+ORDER: ORD-2025-3011
+Customer: Lucas Thompson
+Email: lucas.thompson@example.com
+Order date: 2025-06-07
+Due date: 2025-06-14
+Subtotal: 49.0 USD
+Tax: 4.41 USD
+Total: 53.41 USD
+Payment completed: False
+Payment method: 
+Transaction ID: 
+
+Items:
+ - Freelance Service — Design & UX Audit x1
+
+Notes: Service provided under PhantomPay B2B terms. Synthetic data for testing.

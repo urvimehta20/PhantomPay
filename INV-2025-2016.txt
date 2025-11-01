@@ -1,0 +1,17 @@
+INVOICE: INV-2025-2016
+ORDER: ORD-2025-3016
+Customer: Harper Hernandez
+Email: harper.hernandez@example.com
+Order date: 2025-10-17
+Due date: 2025-10-24
+Subtotal: 25.0 USD
+Tax: 2.25 USD
+Total: 27.25 USD
+Payment completed: True
+Payment method: 
+Transaction ID: TX-5016
+
+Items:
+ - Hardware Service — POS Terminal Unit (Model X) x1
+
+Notes: Service provided under PhantomPay B2B terms. Synthetic data for testing.

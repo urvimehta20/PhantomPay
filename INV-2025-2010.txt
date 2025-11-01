@@ -1,0 +1,17 @@
+INVOICE: INV-2025-2010
+ORDER: ORD-2025-3010
+Customer: Liam Lopez
+Email: liam.lopez@example.com
+Order date: 2025-10-18
+Due date: 2025-10-25
+Subtotal: 98.0 USD
+Tax: 8.82 USD
+Total: 106.82 USD
+Payment completed: False
+Payment method: 
+Transaction ID: 
+
+Items:
+ - Software Service — API Integration Setup x1
+
+Notes: Service provided under PhantomPay B2B terms. Synthetic data for testing.

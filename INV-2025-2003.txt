@@ -1,0 +1,17 @@
+INVOICE: INV-2025-2003
+ORDER: ORD-2025-3003
+Customer: Mason Young
+Email: mason.young@example.com
+Order date: 2025-11-02
+Due date: 2025-11-09
+Subtotal: 796.0 USD
+Tax: 71.64 USD
+Total: 867.64 USD
+Payment completed: False
+Payment method: 
+Transaction ID: 
+
+Items:
+ - Enterprise Service — Invoice Processing Package (Monthly) x1
+
+Notes: Service provided under PhantomPay B2B terms. Synthetic data for testing.
